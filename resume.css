@@ -50,9 +50,8 @@ span{
 
 
 img{
-    max-height:70%;
-    /* USING MAX-HEIGHT WORKS AND LOOKS SO MUCH BETTER ON MY WEBSITE.
-    MAX-WIDTH:100% WAS CONSTANTLY MAKING MY IMAGE OVERLAP WITH MY FOOTER AND DIDN'T WORK.*/
+    max-width:70%;
+    height:auto;
     margin: 0 auto;
     padding:20px;
 }
