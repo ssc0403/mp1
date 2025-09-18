@@ -208,10 +208,4 @@ input{
         justify-content:center;
         font-size:calc(10px + 1vw);
     }
-
-    img{
-        width:70vw;
-
-    }
-
 }
