@@ -50,6 +50,7 @@ span{
 
 
 img{
+    max-width: 100%;
     margin: 0 auto;
     padding:20px;
     height:70%;
@@ -206,6 +207,11 @@ input{
         width:100%;
         justify-content:center;
         font-size:calc(10px + 1vw);
+    }
+
+    img{
+        width:70vw;
+
     }
 
 }
